@@ -1,0 +1,157 @@
+,id,country,name,_fivetran_synced
+0,7,urn:li:country:us,Greater Boston Area,2022-08-08 10:43:22.166000+00:00
+1,31,urn:li:country:us,Dallas/Fort Worth Area,2022-08-08 10:43:22.166000+00:00
+2,49,urn:li:country:us,Greater Los Angeles Area,2022-08-08 10:43:22.166000+00:00
+3,70,urn:li:country:us,Greater New York City Area,2022-08-08 10:43:22.306000+00:00
+4,84,urn:li:country:us,San Francisco Bay Area,2022-08-08 10:43:22.306000+00:00
+5,91,urn:li:country:us,Greater Seattle Area,2022-08-08 10:43:22.306000+00:00
+6,97,urn:li:country:us,Washington D.C. Metro Area,2022-08-08 10:43:22.306000+00:00
+7,202,urn:li:country:us,"Daytona Beach, Florida Area",2022-08-08 10:43:22.706000+00:00
+8,928,urn:li:country:us,"York, Pennsylvania Area",2022-08-08 10:43:22.572000+00:00
+9,4573,urn:li:country:gb,"London, United Kingdom",2022-08-08 10:43:22.706000+00:00
+10,4580,urn:li:country:gb,"Gloucester, United Kingdom",2022-08-08 10:43:22.706000+00:00
+11,4586,urn:li:country:gb,"Hemel Hempstead, United Kingdom",2022-08-08 10:43:22.706000+00:00
+12,4609,urn:li:country:gb,"Rochester, United Kingdom",2022-08-08 10:43:22.166000+00:00
+13,4613,urn:li:country:gb,"Nottingham, United Kingdom",2022-08-08 10:43:22.166000+00:00
+14,4614,urn:li:country:gb,"Northampton, United Kingdom",2022-08-08 10:43:22.166000+00:00
+15,4620,urn:li:country:gb,"Peterborough, United Kingdom",2022-08-08 10:43:22.166000+00:00
+16,4625,urn:li:country:gb,"Reading, United Kingdom",2022-08-08 10:43:22.166000+00:00
+17,4629,urn:li:country:gb,"Swansea, United Kingdom",2022-08-08 10:43:22.166000+00:00
+18,4863,urn:li:country:ca,"Montreal, Canada Area",2022-08-08 10:43:22.848000+00:00
+19,4875,urn:li:country:ca,"Quebec, Canada",2022-08-08 10:43:22.166000+00:00
+20,4876,urn:li:country:ca,"Toronto, Canada Area",2022-08-08 10:43:22.166000+00:00
+21,4880,urn:li:country:ca,"Vancouver, Canada Area",2022-08-08 10:43:22.166000+00:00
+22,4886,urn:li:country:au,"Adelaide, Australia",2022-08-08 10:43:22.166000+00:00
+23,4905,urn:li:country:au,"Perth, Australia",2022-08-08 10:43:22.166000+00:00
+24,4909,urn:li:country:au,"Brisbane, Australia",2022-08-08 10:43:22.166000+00:00
+25,4910,urn:li:country:au,"Sydney, Australia",2022-08-08 10:43:22.166000+00:00
+26,4918,urn:li:country:be,"Antwerp Area, Belgium",2022-08-08 10:43:22.306000+00:00
+27,4920,urn:li:country:be,"Brussels Area, Belgium",2022-08-08 10:43:22.306000+00:00
+28,4929,urn:li:country:ch,"Bern Area, Switzerland",2022-08-08 10:43:22.306000+00:00
+29,4930,urn:li:country:ch,"Geneva Area, Switzerland",2022-08-08 10:43:22.306000+00:00
+30,4932,urn:li:country:ch,"Lausanne Area, Switzerland",2022-08-08 10:43:22.306000+00:00
+31,4944,urn:li:country:de,"Berlin Area, Germany",2022-08-08 10:43:22.306000+00:00
+32,4966,urn:li:country:de,"Frankfurt Am Main Area, Germany",2022-08-08 10:43:22.306000+00:00
+33,4968,urn:li:country:de,"Freiburg Area, Germany",2022-08-08 10:43:22.306000+00:00
+34,4976,urn:li:country:de,"Halle-Neustadt Area, Germany",2022-08-08 10:43:22.444000+00:00
+35,4977,urn:li:country:de,"Hamburg Area, Germany",2022-08-08 10:43:22.444000+00:00
+36,5113,urn:li:country:es,"Madrid Area, Spain",2022-08-08 10:43:22.848000+00:00
+37,5142,urn:li:country:es,"Sevilla Area, Spain",2022-08-08 10:43:22.166000+00:00
+38,5152,urn:li:country:es,"Valencia Area, Spain",2022-08-08 10:43:22.166000+00:00
+39,5163,urn:li:country:fr,"Ajaccio Area, France",2022-08-08 10:43:22.166000+00:00
+40,5164,urn:li:country:fr,"Albi Area, France",2022-08-08 10:43:22.166000+00:00
+41,5166,urn:li:country:fr,"Angers Area, France",2022-08-08 10:43:22.166000+00:00
+42,5174,urn:li:country:fr,"Bordeaux Area, France",2022-08-08 10:43:22.306000+00:00
+43,5186,urn:li:country:fr,"Chambéry Area, France",2022-08-08 10:43:22.306000+00:00
+44,5199,urn:li:country:fr,"Grenoble Area, France",2022-08-08 10:43:22.306000+00:00
+45,5200,urn:li:country:fr,"La Rochelle Area, France",2022-08-08 10:43:22.306000+00:00
+46,5205,urn:li:country:fr,"Lille Area, France",2022-08-08 10:43:22.306000+00:00
+47,5210,urn:li:country:fr,"Lyon Area, France",2022-08-08 10:43:22.306000+00:00
+48,5211,urn:li:country:fr,"Marseille Area, France",2022-08-08 10:43:22.306000+00:00
+49,5216,urn:li:country:fr,"Montpellier Area, France",2022-08-08 10:43:22.306000+00:00
+50,5220,urn:li:country:fr,"Nantes Area, France",2022-08-08 10:43:22.306000+00:00
+51,5221,urn:li:country:fr,"Nice Area, France",2022-08-08 10:43:22.306000+00:00
+52,5225,urn:li:country:fr,"Nîmes Area, France",2022-08-08 10:43:22.306000+00:00
+53,5226,urn:li:country:fr,"Orléans Area, France",2022-08-08 10:43:22.306000+00:00
+54,5227,urn:li:country:fr,"Paris Area, France",2022-08-08 10:43:22.306000+00:00
+55,5228,urn:li:country:fr,"Pau Area, France",2022-08-08 10:43:22.306000+00:00
+56,5235,urn:li:country:fr,"Quimper Area, France",2022-08-08 10:43:22.444000+00:00
+57,5236,urn:li:country:fr,"Reims Area, France",2022-08-08 10:43:22.444000+00:00
+58,5237,urn:li:country:fr,"Rennes Area, France",2022-08-08 10:43:22.444000+00:00
+59,5244,urn:li:country:fr,"Saint-Quentin Area, France",2022-08-08 10:43:22.444000+00:00
+60,5246,urn:li:country:fr,"Strasbourg Area, France",2022-08-08 10:43:22.444000+00:00
+61,5249,urn:li:country:fr,"Toulouse Area, France",2022-08-08 10:43:22.444000+00:00
+62,5600,urn:li:country:it,"Foggia Area, Italy",2022-08-08 10:43:22.706000+00:00
+63,5616,urn:li:country:it,"Milan Area, Italy",2022-08-08 10:43:22.848000+00:00
+64,5664,urn:li:country:nl,"Amsterdam Area, Netherlands",2022-08-08 10:43:22.166000+00:00
+65,5668,urn:li:country:nl,"Eindhoven Area, Netherlands",2022-08-08 10:43:22.166000+00:00
+66,5712,urn:li:country:no,"Oslo Area, Norway",2022-08-08 10:43:22.306000+00:00
+67,5908,urn:li:country:nl,"Rotterdam Area, Netherlands",2022-08-08 10:43:22.166000+00:00
+68,5921,urn:li:country:mx,"Mexico City Area, Mexico",2022-08-08 10:43:22.166000+00:00
+69,6046,urn:li:country:br,"Araruama Area, Brazil",2022-08-08 10:43:22.572000+00:00
+70,6056,urn:li:country:br,"Afogados da Ingazeira Area, Brazil",2022-08-08 10:43:22.706000+00:00
+71,6115,urn:li:country:br,"Blumenau Area, Brazil",2022-08-08 10:43:22.706000+00:00
+72,6368,urn:li:country:br,"São Paulo Area, Brazil",2022-08-08 10:43:22.706000+00:00
+73,6442,urn:li:country:br,"Taubaté Area, Brazil",2022-08-08 10:43:22.166000+00:00
+74,6879,urn:li:country:in,"Chandigarh Area, India",2022-08-08 10:43:22.706000+00:00
+75,6891,urn:li:country:in,"Chennai Area, India",2022-08-08 10:43:22.706000+00:00
+76,6909,urn:li:country:in,"Guna Area, India",2022-08-08 10:43:22.848000+00:00
+77,7127,urn:li:country:in,"Bengaluru Area, India",2022-08-08 10:43:22.706000+00:00
+78,7150,urn:li:country:in,"Mumbai Area, India",2022-08-08 10:43:22.848000+00:00
+79,7151,urn:li:country:in,"New Delhi Area, India",2022-08-08 10:43:22.848000+00:00
+80,7275,urn:li:country:in,"Vishakhapatnam Area, India",2022-08-08 10:43:22.306000+00:00
+81,7405,urn:li:country:pt,"Lisbon Area, Portugal",2022-08-08 10:43:22.706000+00:00
+82,7585,urn:li:country:tr,"Istanbul, Turkey",2022-08-08 10:43:22.572000+00:00
+83,7588,urn:li:country:tr,"Sakarya, Turkey",2022-08-08 10:43:22.706000+00:00
+84,7613,urn:li:country:tr,"Izmir, Turkey",2022-08-08 10:43:22.706000+00:00
+85,8829,urn:li:country:it,"Ancona Area, Italy",2022-08-08 10:43:22.444000+00:00
+86,8851,urn:li:country:it,"Lucca Area, Italy",2022-08-08 10:43:22.572000+00:00
+87,8910,urn:li:country:cn,"Shenzhen, Guangdong, China",2022-08-08 10:43:22.706000+00:00
+88,8931,urn:li:country:cn,"Hangzhou, Zhejiang, China",2022-08-08 10:43:22.706000+00:00
+89,8964,urn:li:country:cn,"Mianyang, Sichuan, China",2022-08-08 10:43:22.166000+00:00
+90,9017,urn:li:country:cn,"Shenyang, Liaoning, China",2022-08-08 10:43:22.306000+00:00
+91,9240,urn:li:country:ph,"Region V - Bicol, Philippines",2022-08-08 10:43:22.166000+00:00
+92,9242,urn:li:country:ph,"Region VII - Central Visayas, Philippines",2022-08-08 10:43:22.166000+00:00
+93,9245,urn:li:country:ph,"Region XI - Davao, Philippines",2022-08-08 10:43:22.166000+00:00
+94,9335,urn:li:country:at,Austria area,2022-08-08 10:43:22.444000+00:00
+95,9337,urn:li:country:dz,Algeria area,2022-08-08 10:43:22.444000+00:00
+96,9344,urn:li:country:mc,Monaco area,2022-08-08 10:43:22.444000+00:00
+97,9355,urn:li:country:fi,"Helsinki Area, Finland",2022-08-08 10:43:22.572000+00:00
+98,9358,urn:li:country:fi,"Sipoo Area, Finland",2022-08-08 10:43:22.572000+00:00
+99,9373,urn:li:country:fi,"Tampere Area, Finland",2022-08-08 10:43:22.572000+00:00
+100,9583,urn:li:country:ma,"Nador Province, Morocco",2022-08-08 10:43:22.306000+00:00
+101,9584,urn:li:country:ma,"Azilal Province, Morocco",2022-08-08 10:43:22.444000+00:00
+102,9585,urn:li:country:ma,"Al Haouz Province, Morocco",2022-08-08 10:43:22.444000+00:00
+103,9586,urn:li:country:ma,"El Kelaâ des Sraghna Province, Morocco",2022-08-08 10:43:22.444000+00:00
+104,9587,urn:li:country:ma,"Safi Province, Morocco",2022-08-08 10:43:22.444000+00:00
+105,9591,urn:li:country:ma,"Al Hoceima Province, Morocco",2022-08-08 10:43:22.444000+00:00
+106,9592,urn:li:country:ma,"Béni Mellal Province, Morocco",2022-08-08 10:43:22.444000+00:00
+107,9593,urn:li:country:ma,"Tétouan Province, Morocco",2022-08-08 10:43:22.444000+00:00
+108,9595,urn:li:country:ma,"Khémisset Province, Morocco",2022-08-08 10:43:22.444000+00:00
+109,9597,urn:li:country:ma,"Larache Province, Morocco",2022-08-08 10:43:22.444000+00:00
+110,9598,urn:li:country:ma,"El Jadida Province, Morocco",2022-08-08 10:43:22.444000+00:00
+111,9600,urn:li:country:ma,"Fquih Ben Salah Province, Morocco",2022-08-08 10:43:22.444000+00:00
+112,9602,urn:li:country:ma,"Kénitra Province, Morocco",2022-08-08 10:43:22.444000+00:00
+113,9603,urn:li:country:ma,"Berrechid Province, Morocco",2022-08-08 10:43:22.444000+00:00
+114,9604,urn:li:country:ma,"Mohammédia Prefecture, Morocco",2022-08-08 10:43:22.444000+00:00
+115,9608,urn:li:country:ma,"Guelmim Province, Morocco",2022-08-08 10:43:22.572000+00:00
+116,9610,urn:li:country:ma,"Meknès Prefecture, Morocco",2022-08-08 10:43:22.572000+00:00
+117,9615,urn:li:country:ma,"Tan-Tan Province, Morocco",2022-08-08 10:43:22.572000+00:00
+118,9617,urn:li:country:ma,"Salé Prefecture, Morocco",2022-08-08 10:43:22.572000+00:00
+119,9619,urn:li:country:ma,"Casablanca Prefecture, Morocco",2022-08-08 10:43:22.572000+00:00
+120,9621,urn:li:country:ma,"Ouarzazate Province, Morocco",2022-08-08 10:43:22.572000+00:00
+121,9622,urn:li:country:ma,"Nouaceur Province, Morocco",2022-08-08 10:43:22.572000+00:00
+122,9623,urn:li:country:ma,"Chtouka-Aït Baha Province, Morocco",2022-08-08 10:43:22.572000+00:00
+123,9624,urn:li:country:ma,"Ifrane Province, Morocco",2022-08-08 10:43:22.572000+00:00
+124,9626,urn:li:country:ma,"Ben Slimane Province, Morocco",2022-08-08 10:43:22.572000+00:00
+125,9627,urn:li:country:ma,"Errachidia Province, Morocco",2022-08-08 10:43:22.572000+00:00
+126,9628,urn:li:country:ma,"Sidi Slimane Province, Morocco",2022-08-08 10:43:22.572000+00:00
+127,9629,urn:li:country:ma,"Midelt Province, Morocco",2022-08-08 10:43:22.572000+00:00
+128,9631,urn:li:country:ma,"Ouezzane Province, Morocco",2022-08-08 10:43:22.572000+00:00
+129,9632,urn:li:country:ma,"Tanger-Asilah Prefecture, Morocco",2022-08-08 10:43:22.572000+00:00
+130,9633,urn:li:country:ma,"Boulemane Province, Morocco",2022-08-08 10:43:22.572000+00:00
+131,9635,urn:li:country:ma,"Fès Prefecture, Morocco",2022-08-08 10:43:22.572000+00:00
+132,9636,urn:li:country:ma,"Taroudant Province, Morocco",2022-08-08 10:43:22.706000+00:00
+133,9638,urn:li:country:ma,"Es-Semara Province, Morocco",2022-08-08 10:43:22.706000+00:00
+134,9639,urn:li:country:ma,"Marrakech Prefecture, Morocco",2022-08-08 10:43:22.706000+00:00
+135,9640,urn:li:country:ma,"Inezgane-Aït Melloul Prefecture, Morocco",2022-08-08 10:43:22.706000+00:00
+136,9641,urn:li:country:ma,"Oujda-Angad Prefecture, Morocco",2022-08-08 10:43:22.706000+00:00
+137,9646,urn:li:country:ma,"Rabat Prefecture, Morocco",2022-08-08 10:43:22.706000+00:00
+138,9647,urn:li:country:ma,"Laâyoune Province, Morocco",2022-08-08 10:43:22.706000+00:00
+139,9648,urn:li:country:ma,"Skhirat-Témara Prefecture, Morocco",2022-08-08 10:43:22.706000+00:00
+140,9651,urn:li:country:ma,"Taza Province, Morocco",2022-08-08 10:43:22.706000+00:00
+141,9652,urn:li:country:ma,"Khouribga Province, Morocco",2022-08-08 10:43:22.706000+00:00
+142,9653,urn:li:country:ma,"Essaouira Province, Morocco",2022-08-08 10:43:22.706000+00:00
+143,9655,urn:li:country:ma,"Settat Province, Morocco",2022-08-08 10:43:22.706000+00:00
+144,9657,urn:li:country:ma,"Agadir Ida-Outanane Prefecture, Morocco",2022-08-08 10:43:22.706000+00:00
+145,9853,urn:li:country:tn,"Ariana Governorate, Tunisia",2022-08-08 10:43:22.444000+00:00
+146,9854,urn:li:country:tn,"Nabeul Governorate, Tunisia",2022-08-08 10:43:22.444000+00:00
+147,9856,urn:li:country:tn,"Gafsa Governorate, Tunisia",2022-08-08 10:43:22.444000+00:00
+148,9857,urn:li:country:tn,"Mannouba Governorate, Tunisia",2022-08-08 10:43:22.444000+00:00
+149,9860,urn:li:country:tn,"Kairouan Governorate, Tunisia",2022-08-08 10:43:22.572000+00:00
+150,9861,urn:li:country:tn,"Ben Arous Governorate, Tunisia",2022-08-08 10:43:22.571000+00:00
+151,9862,urn:li:country:tn,"Tunis Governorate, Tunisia",2022-08-08 10:43:22.572000+00:00
+152,9864,urn:li:country:tn,"Monastir Governorate, Tunisia",2022-08-08 10:43:22.572000+00:00
+153,9875,urn:li:country:tn,"Sousse Governorate, Tunisia",2022-08-08 10:43:22.572000+00:00
+154,9876,urn:li:country:tn,"Mahdia Governorate, Tunisia",2022-08-08 10:43:22.572000+00:00
+155,9893,urn:li:country:ve,"Caracas Area, Venezuela",2022-08-08 10:43:22.706000+00:00

@@ -1,0 +1,78 @@
+,id,name,country_group,_fivetran_synced
+0,ae,United Arab Emirates,urn:li:countryGroup:ME,2022-08-08 10:43:23.247000+00:00
+1,ao,Angola,urn:li:countryGroup:AF,2022-08-08 10:43:23.247000+00:00
+2,at,Austria,urn:li:countryGroup:EU,2022-08-08 10:43:23.247000+00:00
+3,au,Australia,urn:li:countryGroup:OC,2022-08-08 10:43:23.247000+00:00
+4,az,Azerbaijan,urn:li:countryGroup:EU,2022-08-08 10:43:23.247000+00:00
+5,bd,Bangladesh,urn:li:countryGroup:AS,2022-08-08 10:43:23.248000+00:00
+6,be,Belgium,urn:li:countryGroup:EU,2022-08-08 10:43:23.248000+00:00
+7,bf,Burkina Faso,urn:li:countryGroup:AF,2022-08-08 10:43:23.248000+00:00
+8,bg,Bulgaria,urn:li:countryGroup:EU,2022-08-08 10:43:23.248000+00:00
+9,bj,Benin,urn:li:countryGroup:AF,2022-08-08 10:43:23.248000+00:00
+10,br,Brazil,urn:li:countryGroup:LA,2022-08-08 10:43:23.248000+00:00
+11,ca,Canada,urn:li:countryGroup:NA,2022-08-08 10:43:23.248000+00:00
+12,cd,Democratic Republic of the Congo,urn:li:countryGroup:AF,2022-08-08 10:43:23.248000+00:00
+13,cg,Congo,urn:li:countryGroup:AF,2022-08-08 10:43:23.248000+00:00
+14,ch,Switzerland,urn:li:countryGroup:EU,2022-08-08 10:43:23.248000+00:00
+15,ci,Cote D’Ivoire (Ivory Coast),urn:li:countryGroup:AF,2022-08-08 10:43:23.248000+00:00
+16,cm,Cameroon,urn:li:countryGroup:AF,2022-08-08 10:43:23.248000+00:00
+17,cn,China,urn:li:countryGroup:AS,2022-08-08 10:43:23.248000+00:00
+18,co,Colombia,urn:li:countryGroup:LA,2022-08-08 10:43:23.248000+00:00
+19,de,Germany,urn:li:countryGroup:EU,2022-08-08 10:43:23.247000+00:00
+20,dj,Djibouti,urn:li:countryGroup:AF,2022-08-08 10:43:23.247000+00:00
+21,do,Dominican Republic,urn:li:countryGroup:LA,2022-08-08 10:43:23.247000+00:00
+22,dz,Algeria,urn:li:countryGroup:AF,2022-08-08 10:43:23.247000+00:00
+23,eg,Egypt,urn:li:countryGroup:AF,2022-08-08 10:43:23.247000+00:00
+24,eh,Western Sahara,urn:li:countryGroup:AF,2022-08-08 10:43:23.247000+00:00
+25,es,Spain,urn:li:countryGroup:EU,2022-08-08 10:43:23.247000+00:00
+26,fi,Finland,urn:li:countryGroup:EU,2022-08-08 10:43:23.248000+00:00
+27,fr,France,urn:li:countryGroup:EU,2022-08-08 10:43:23.248000+00:00
+28,ga,Gabon,urn:li:countryGroup:AF,2022-08-08 10:43:23.248000+00:00
+29,gb,United Kingdom,urn:li:countryGroup:EU,2022-08-08 10:43:23.248000+00:00
+30,gh,Ghana,urn:li:countryGroup:AF,2022-08-08 10:43:23.248000+00:00
+31,gn,Guinea,urn:li:countryGroup:AF,2022-08-08 10:43:23.248000+00:00
+32,gr,Greece,urn:li:countryGroup:EU,2022-08-08 10:43:23.248000+00:00
+33,hk,Hong Kong,urn:li:countryGroup:AS,2022-08-08 10:43:23.247000+00:00
+34,hr,Croatia,urn:li:countryGroup:EU,2022-08-08 10:43:23.247000+00:00
+35,ht,Haiti,urn:li:countryGroup:LA,2022-08-08 10:43:23.247000+00:00
+36,ie,Ireland,urn:li:countryGroup:EU,2022-08-08 10:43:23.247000+00:00
+37,il,Israel,urn:li:countryGroup:ME,2022-08-08 10:43:23.247000+00:00
+38,in,India,urn:li:countryGroup:AS,2022-08-08 10:43:23.247000+00:00
+39,it,Italy,urn:li:countryGroup:EU,2022-08-08 10:43:23.247000+00:00
+40,lb,Lebanon,urn:li:countryGroup:ME,2022-08-08 10:43:23.248000+00:00
+41,lu,Luxembourg,urn:li:countryGroup:EU,2022-08-08 10:43:23.247000+00:00
+42,ma,Morocco,urn:li:countryGroup:AF,2022-08-08 10:43:23.247000+00:00
+43,mc,Monaco,urn:li:countryGroup:EU,2022-08-08 10:43:23.247000+00:00
+44,mg,Madagascar,urn:li:countryGroup:AF,2022-08-08 10:43:23.247000+00:00
+45,ml,Mali,urn:li:countryGroup:AF,2022-08-08 10:43:23.247000+00:00
+46,mr,Mauritania,urn:li:countryGroup:AF,2022-08-08 10:43:23.247000+00:00
+47,mx,Mexico,urn:li:countryGroup:LA,2022-08-08 10:43:23.247000+00:00
+48,ne,Niger,urn:li:countryGroup:AF,2022-08-08 10:43:23.247000+00:00
+49,ng,Nigeria,urn:li:countryGroup:AF,2022-08-08 10:43:23.247000+00:00
+50,nl,Netherlands,urn:li:countryGroup:EU,2022-08-08 10:43:23.247000+00:00
+51,no,Norway,urn:li:countryGroup:EU,2022-08-08 10:43:23.247000+00:00
+52,oo,Other,urn:li:countryGroup:AS,2022-08-08 10:43:23.248000+00:00
+53,pf,French Polynesia,urn:li:countryGroup:OC,2022-08-08 10:43:23.248000+00:00
+54,ph,Philippines,urn:li:countryGroup:AS,2022-08-08 10:43:23.248000+00:00
+55,pk,Pakistan,urn:li:countryGroup:ME,2022-08-08 10:43:23.248000+00:00
+56,pt,Portugal,urn:li:countryGroup:EU,2022-08-08 10:43:23.247000+00:00
+57,qa,Qatar,urn:li:countryGroup:ME,2022-08-08 10:43:23.247000+00:00
+58,re,Reunion,urn:li:countryGroup:AF,2022-08-08 10:43:23.247000+00:00
+59,rs,Serbia,urn:li:countryGroup:EU,2022-08-08 10:43:23.248000+00:00
+60,ru,Russian Federation,urn:li:countryGroup:EU,2022-08-08 10:43:23.248000+00:00
+61,sa,Saudi Arabia,urn:li:countryGroup:ME,2022-08-08 10:43:23.248000+00:00
+62,sd,Sudan,urn:li:countryGroup:AF,2022-08-08 10:43:23.248000+00:00
+63,se,Sweden,urn:li:countryGroup:EU,2022-08-08 10:43:23.248000+00:00
+64,sg,Singapore,urn:li:countryGroup:AS,2022-08-08 10:43:23.248000+00:00
+65,si,Slovenia,urn:li:countryGroup:EU,2022-08-08 10:43:23.248000+00:00
+66,sk,Slovak Republic,urn:li:countryGroup:EU,2022-08-08 10:43:23.248000+00:00
+67,sn,Senegal,urn:li:countryGroup:AF,2022-08-08 10:43:23.248000+00:00
+68,tg,Togo,urn:li:countryGroup:AF,2022-08-08 10:43:23.248000+00:00
+69,th,Thailand,urn:li:countryGroup:AS,2022-08-08 10:43:23.248000+00:00
+70,tn,Tunisia,urn:li:countryGroup:AF,2022-08-08 10:43:23.248000+00:00
+71,tr,Turkey,urn:li:countryGroup:EU,2022-08-08 10:43:23.248000+00:00
+72,ua,Ukraine,urn:li:countryGroup:EU,2022-08-08 10:43:23.247000+00:00
+73,us,United States,urn:li:countryGroup:NA,2022-08-08 10:43:23.247000+00:00
+74,ve,Venezuela,urn:li:countryGroup:LA,2022-08-08 10:43:23.247000+00:00
+75,vn,Vietnam,urn:li:countryGroup:AS,2022-08-08 10:43:23.247000+00:00
+76,za,South Africa,urn:li:countryGroup:AF,2022-08-08 10:43:23.247000+00:00
