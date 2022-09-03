@@ -929,7 +929,7 @@ def show_predict_future_values_page(save_data , save_name):
                 #st.write("names_tables : ",names_tables[i])
                 st.write("name : ",name)
                 features = st.multiselect(
-                    "Choose features", list(df.columns), list(df.columns)[len(df.columns)-1]
+                    "Choose features", list(df.columns), list(df.columns)[len(df.columns)-1] , key=name
                 )
                 if not features:
                     st.error("Please select at least one feature.")
@@ -988,7 +988,7 @@ def show_predict_future_values_page(save_data , save_name):
                         'dropout_prob' : dropout}
 
                         models_names = st.multiselect(
-                        "Choose models", ['lstm' , 'rnn' , 'gru' ], 'lstm',key=feature
+                        "Choose models", ['lstm' , 'rnn' , 'gru' ], 'lstm',key=feature+name
                          )
 
                         for model_name in models_names : 
@@ -1021,7 +1021,7 @@ def show_predict_future_values_page(save_data , save_name):
 
 
                             #### Predicting future values
-                            NS = st.slider('number of days to predict?', 30, 365*10, 365 , key=model_name+feature)
+                            NS = st.slider('number of days to predict?', 30, 365*10, 365 , key=model_name+feature+name)
                             
                             start_date, freq = get_datetime_index(y_test)
                             index = pd.date_range(start=start_date, freq=freq, periods=NS )
