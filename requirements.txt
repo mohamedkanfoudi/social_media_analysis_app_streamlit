@@ -1,7 +1,7 @@
 streamlit
 pandas
 snowflake-connector-python
-snowflake.sqlalchemy
+snowflake-sqlalchemy
 sqlalchemy
 plotly
 urllib3
