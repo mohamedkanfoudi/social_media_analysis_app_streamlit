@@ -13,5 +13,4 @@ numpy
 holidays
 sklearn
 regex
-pickle
 nltk
