@@ -915,7 +915,6 @@ def show_predict_future_values_page(save_data , save_name):
         
         try:
 
-            st.write("### choose features per table")
 
             names = st.multiselect(
                 "Choose tables", list(names_tables.values()), names_tables[0]
@@ -1009,8 +1008,8 @@ def show_predict_future_values_page(save_data , save_name):
                             )
                             df_result = format_predictions(predictions, values, X_test, scaler)
                             result_metrics = calculate_metrics(df_result)
-                            st.write('error')
-                            st.write(result_metrics)
+                            #st.write('error')
+                            #st.write(result_metrics)
                             ##
                             err = mean_absolute_error(df_result.value, df_result.prediction)
                             df_result.prediction = df_result.prediction + err

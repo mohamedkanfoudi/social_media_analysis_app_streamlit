@@ -203,8 +203,7 @@ def show_analyse_page(save_data , save_name):
 
 
             ''''''''''''''''''''
-            st.write("### MAP  ")
-
+            st.write("## MAP : Site Search in Google   ")
             df = pd.read_csv('KEYWORD_PAGE_REPORT.csv')
             df = df.groupby(by='country', as_index=False).agg({'impressions': 'sum' , 'clicks':'sum' })
             df = df.sort_values(by = 'clicks' , ascending=False  )

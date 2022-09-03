@@ -13,9 +13,8 @@ names_tables = {}
 dataframe_collection = save_data()
 names_tables = save_name()
 
-if page == "statement predict":
-    show_statement_predict()
-elif page == "Connect to Snowflake" : 
+
+if page == "Connect to Snowflake" : 
     show_show_page(dataframe_collection , names_tables)
 elif page == "Analyse" : 
     show_analyse_page(dataframe_collection , names_tables)
