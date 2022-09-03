@@ -3,6 +3,7 @@ pandas
 -r https://raw.githubusercontent.com/snowflakedb/snowflake-connector-python/v2.7.9/tested_requirements/requirements_39.reqs
 snowflake-sqlalchemy
 sqlalchemy
+pyarrow<6.1.0,>=6.0.0; extra == "pandas"
 plotly
 urllib3
 wordcloud
