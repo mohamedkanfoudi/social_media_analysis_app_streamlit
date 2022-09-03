@@ -1,6 +1,7 @@
 streamlit
 pandas
-snowflake
+snowflake-connector-python
+snowflake.sqlalchemy
 sqlalchemy
 plotly
 urllib3
@@ -14,4 +15,3 @@ holidays
 sklearn
 regex
 nltk
-snowflake-connector-python
