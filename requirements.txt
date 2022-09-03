@@ -14,3 +14,4 @@ holidays
 sklearn
 regex
 nltk
+snowflake-connector-python
