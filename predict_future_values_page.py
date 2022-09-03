@@ -3,7 +3,6 @@ import streamlit as st
 import pandas as pd
 
 import datetime
-import time
 import pandas as pd 
 
 
@@ -18,7 +17,6 @@ from datetime import datetime
 import plotly.graph_objs as go
 from plotly.offline import iplot
 
-from datetime import date
 import holidays
 
 from sklearn.model_selection import train_test_split
@@ -26,7 +24,6 @@ from sklearn.preprocessing import MinMaxScaler, StandardScaler, MaxAbsScaler, Ro
 
 from torch.utils.data import TensorDataset, DataLoader
 
-import plotly.offline as pyo
 import plotly.graph_objs as go
 from plotly.offline import iplot
 from sklearn.linear_model import LinearRegression

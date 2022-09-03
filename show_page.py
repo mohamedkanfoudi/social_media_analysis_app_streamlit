@@ -1,10 +1,8 @@
-from sqlite3 import connect
 import streamlit as st
 import pandas as pd
-import snowflake.connector
+#import snowflake.connector
 from snowflake.sqlalchemy import URL
 from sqlalchemy import create_engine
-import glob
 
 data = {}
 name = {}

@@ -1,13 +1,9 @@
-from argparse import Namespace
-from operator import le
-from unicodedata import name
 import streamlit as st
 import pickle
 import numpy as np
 import pandas as pd
 import re 
 import string 
-import plotly.figure_factory as ff
  
 from sklearn.feature_extraction.text import TfidfVectorizer
 
@@ -16,23 +12,12 @@ from urllib.error import URLError
 
 import streamlit as st
 from wordcloud import WordCloud
-import matplotlib.pyplot as plt
-
-
-import pydeck as pdk
-import math
-
-import datetime
-import leafmap.foliumap as leafmap
 
 
 import streamlit as st
 import pandas as pd
 import numpy as np
-import pydeck as pdk
-import altair as alt
-import datetime
-import time
+
 import pandas as pd 
 
 
