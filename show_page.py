@@ -92,7 +92,7 @@ def show_show_page(dataframe_collection, names_tables):
     st.write("""###Enter your connection informations of Snowflake""")
         
     username = st.text_input("username : ",value="MOHAMEDELKANFOUDI")
-    password = st.text_input("password :",value="Salam_2000_2020" , type='password')
+    password = st.text_input("password :",value="" , type='password')
     account_name = st.text_input("account_name : (https://<account_name>.snowflakecomputing.com ) ",value="ao28328.central-us.azure")
     warehouse = st.text_input("warehouse : ",value="PC_FIVETRAN_WH")
     database = st.text_input("database : ",value="PC_FIVETRAN_DB")
