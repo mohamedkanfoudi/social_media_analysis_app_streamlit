@@ -8,7 +8,7 @@ plotly
 urllib3
 wordcloud
 matplotlib
-pydeck
+pydeck==0.7.1
 datetime
 torch
 numpy
