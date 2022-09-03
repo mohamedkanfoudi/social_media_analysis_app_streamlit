@@ -3,7 +3,7 @@ pandas
 snowflake
 sqlalchemy
 plotly
-urllib
+urllib3
 wordcloud
 matplotlib
 pydeck
