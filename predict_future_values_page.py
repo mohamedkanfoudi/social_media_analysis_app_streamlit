@@ -1021,7 +1021,7 @@ def show_predict_future_values_page(save_data , save_name):
 
 
                             #### Predicting future values
-                            NS = st.slider('number of days to predict?', 30, 365*10, 365)
+                            NS = st.slider('number of days to predict?', 30, 365*10, 365 , key=model_name+feature)
                             
                             start_date, freq = get_datetime_index(y_test)
                             index = pd.date_range(start=start_date, freq=freq, periods=NS )
