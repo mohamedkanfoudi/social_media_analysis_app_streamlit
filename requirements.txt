@@ -13,6 +13,6 @@ numpy
 holidays
 sklearn
 regex
-string
+strings
 pickle
 nltk
